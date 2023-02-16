@@ -1,0 +1,6 @@
+newsapi-python
+openai
+ibm-watson
+ibm-cloud-sdk-core
+streamlit
+dotenv
