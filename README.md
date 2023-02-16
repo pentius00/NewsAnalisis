@@ -57,7 +57,7 @@ You can then click the "Analyze Data" button to perform AI analysis on the news 
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Diego Torres](https://github.com/pentius00)
 
 ## License
 
