@@ -15,6 +15,8 @@ With our app, you'll be able to stay informed and up-to-date on the news in just
 
 This is a web app that analyzes news using AI. It retrieves news articles based on a user-selected topic, and then performs analysis on the news content using IBM Watson and OpenAI APIs.
 
+![App Screenshot](https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=750%2C375&strip=all)
+
 ## Dependencies
 
 This web app requires the following Python packages to be installed:
